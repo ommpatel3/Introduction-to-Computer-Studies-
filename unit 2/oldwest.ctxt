@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=oldwest
+comment0.text=\r\n\r\n\ \r\n\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=oldwest()
+comment3.params=
+comment3.target=void\ oldwestsign()
+comment4.params=
+comment4.target=void\ olddoor()
+comment5.params=time
+comment5.target=void\ wait(int)
+comment6.params=
+comment6.target=int\ blackjack()
+numComments=7
